@@ -78,6 +78,12 @@ registryの変更
 
 </details>
 
+<details>
+<summary>references</summary>
+
+[データフォルダを変更する](https://shima111.hatenadiary.org/entry/20110710/p1)
+
+</details>
 ## 15. MongoDB
 
 ## 16.  Rust
